@@ -4,10 +4,10 @@ Source file `stocks.csv` last updated on 2016-06-24.
 
 ### Table of Contents
 
-* [About]()
-* [Gallery]()
-* [Other Visualizations]()
-* [Explanation]()
+* [About](https://github.com/zonination/investing/blob/master/README.md#about)
+* [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
+* [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
+* [Explanations](https://github.com/zonination/investing/blob/master/README.md#Explanations)
 
 ## About
 
@@ -23,4 +23,4 @@ A lot of you know me from my comments and posts on Reddit's /r/personalfinance. 
 
 ## Other Visualizations
 
-## Explanation
+## Explanations
