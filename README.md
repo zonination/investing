@@ -65,9 +65,9 @@ But that doesn't consider all the years that were average, or even the years tha
 
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
-![Do I invest here or here?](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
+![Do I invest here or here?](https://raw.githubusercontent.com/zonination/investing/master/here-or-here.png)
 
-![Does it matter?](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
+![Does it matter?](https://raw.githubusercontent.com/zonination/investing/master/does-it-matter.png)
 
 ## Other Visualizations
 
