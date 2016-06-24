@@ -48,12 +48,22 @@ Keep in mind that this is a *distribution* of returns. After 1 year of investing
 
 ![Probability of selling short](https://raw.githubusercontent.com/zonination/investing/master/short-probability.png)
 
-Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market. Here's the list of years you can invest, and still be down after 10 years:
+Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market.
 
-[[share a list]]
+Here's the list of years you can invest, and still be down after:
 
-But that doesn't consider all the years that were average after 10 years, or even the years that were extremely profitable for investors.
+* **Still down after 10 years:** [[share a list]]
+* **Still down after 15 years:** [[share a list]]
+* **Still down after 20 years:** [[share a list]]
+* **Still down after 25 years:** [[none (?)]]
+
+But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
 ![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png))
+
+Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
+
+![Do I invest here or here?]()  
+![Does it matter?]()
 
 ## Other Visualizations
