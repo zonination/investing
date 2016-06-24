@@ -7,7 +7,7 @@ Source file `stocks.csv` last updated on 2016-06-24.
 * [About](https://github.com/zonination/investing/blob/master/README.md#about)
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
 * [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
-* [Explanations](https://github.com/zonination/investing/blob/master/README.md#Explanations)
+* [Explanations](https://github.com/zonination/investing/blob/master/README.md#explanations)
 
 ## About
 
