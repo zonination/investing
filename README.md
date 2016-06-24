@@ -6,8 +6,8 @@ Source file `stocks.csv` last updated on 2016-06-24.
 
 * [About](https://github.com/zonination/investing/blob/master/README.md#about)
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
-* [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
 * [Explanations](https://github.com/zonination/investing/blob/master/README.md#explanations)
+* [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
 
 ## About
 
@@ -21,6 +21,6 @@ A lot of you know me from my comments and posts on Reddit's /r/personalfinance. 
 
 ![Investing Returns (marked with an average)](https://raw.githubusercontent.com/zonination/investing/master/returns-average.png)
 
-## Other Visualizations
-
 ## Explanations
+
+## Other Visualizations
