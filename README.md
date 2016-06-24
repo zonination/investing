@@ -59,11 +59,12 @@ Here's the list of years you can invest, and still be down after:
 
 But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
-![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png))
+![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
 
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
-![Do I invest here or here?]()  
+![Do I invest here or here?]()
+
 ![Does it matter?]()
 
 ## Other Visualizations
