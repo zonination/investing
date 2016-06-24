@@ -21,7 +21,7 @@ A lot of you know me from my comments and posts on Reddit's /r/personalfinance. 
 Final Plot:  
 ![Investing Returns](https://raw.githubusercontent.com/zonination/investing/master/returns.png)
 
-Final Plot with Average markings  
+Final Plot with Average markings:  
 ![Investing Returns (marked with an average)](https://raw.githubusercontent.com/zonination/investing/master/returns-average.png)
 
 ## Explanations
