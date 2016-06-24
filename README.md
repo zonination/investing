@@ -6,7 +6,7 @@ Source file `stocks.csv` last updated on 2016-06-24.
 
 * [About](https://github.com/zonination/investing/blob/master/README.md#about)
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
-* [Explanations](https://github.com/zonination/investing/blob/master/README.md#explanations)
+* [Explanations](https://github.com/zonination/investing/blob/master/README.md#exploration-and-explanations)
 * [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
 
 ## About
@@ -24,6 +24,6 @@ Final Plot:
 Final Plot with Average markings:  
 ![Investing Returns (marked with an average)](https://raw.githubusercontent.com/zonination/investing/master/returns-average.png)
 
-## Explanations
+## Exploration and Explanations
 
 ## Other Visualizations
