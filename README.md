@@ -8,6 +8,8 @@ Source file `stocks.csv` last updated on 2016-06-24.
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
 * [Exploration and Explanations](https://github.com/zonination/investing/blob/master/README.md#exploration-and-explanations)
 * [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
+* [Sources](https://github.com/zonination/investing/blob/master/README.md#sources)
+* [Further Reading](https://github.com/zonination/investing/blob/master/README.md#further-reading)
 
 ## About
 
@@ -59,12 +61,20 @@ Here's the list of years you can invest, and still be down after:
 
 But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
-![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
+![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-hibox.png)
 
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
-![Do I invest here or here?]()
+![Do I invest here or here?](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
 
-![Does it matter?]()
+![Does it matter?](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png)
 
 ## Other Visualizations
+
+## Sources
+
+## Further Reading
+
+* [Personalfinance Wiki on Investing]()
+* [I have $X. What do I do with it?]()
+* 
