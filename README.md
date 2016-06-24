@@ -1,6 +1,6 @@
 # Investing Returns on the S&P500
 
-Source file last updated on 2016-06-24.
+Source file `stocks.csv` last updated on 2016-06-24.
 
 ### Table of Contents
 
