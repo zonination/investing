@@ -32,4 +32,28 @@ Final Plot with Average markings:
 
 ## Exploration and Explanations
 
+The plots above were generated based on past returns in the S&P500. So at Year 1, we take every point on the S&P500 curve, look at every point on the S&P500 that's one year ahead, add in dividends and subtract inflation, and record all points as a relative gain or loss for Year 1. Then we do the same thing for Year 2. Then Year 3. And so on, ad nauseum. The program took a couple hours to finish crunching all the numbers.
+
+In short, for the plots above: **If you invest for X years, you have a distribution of Y possible returns,** based on previous history.
+
+I can already hear the keyboards being tapped for the comments section: "Wait, Zoni! this is over the span of 145 years! Nobody is ever going to live to invest for that long." I know, so let's take a look at a more realistic span of investing. Let's say you start investing at the age of 20, and then retire at age 60, which gives you 40 years of investing. Here's what that snapshot will look like:
+
+![Investing for 40 years](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr.png)
+
+Wait a minute. Zoom in. What's going on with those data points that are losing money over X years?
+
+![What?](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-lowbox.png)
+
+Keep in mind that this is a *distribution* of returns. After 1 year of investing, you might sell high or you might sell low. After 20 years, you're almost guaranteed to sell high. By 40 years, you're turning a major profit.
+
+![Probability of selling short](https://raw.githubusercontent.com/zonination/investing/master/short-probability.png)
+
+Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market. Here's the list of years you can invest, and still be down after 10 years:
+
+[[share a list]]
+
+But that doesn't consider all the years that were average after 10 years, or even the years that were extremely profitable for investors.
+
+![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/returns-40yr-box.png))
+
 ## Other Visualizations
