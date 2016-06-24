@@ -54,10 +54,10 @@ Some of the worst market downturns are also represented here, like the [Great De
 
 Here's the list of years you can invest, and still be down after:
 
-* **Still down after 10 years:** [[share a list]]
-* **Still down after 15 years:** [[share a list]]
-* **Still down after 20 years:** [[share a list]]
-* **Still down after 25 years:** [[none (?)]]
+* **Still down after 10 years** (x% chance)**:** [[share a list]]
+* **Still down after 15 years** (x% chance)**:** [[share a list]]
+* **Still down after 20 years** (x% chance)**:** [[share a list]]
+* **Still down after 25 years** (x% chance)**:** [[none (?)]]
 
 But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
