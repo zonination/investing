@@ -40,7 +40,7 @@ In short, for the plots above: **If you invest for X years, you have a distribut
 
 I can already hear the keyboards being tapped for the comments section: "Wait, Zoni! this is over the span of 145 years! Nobody is ever going to live to invest for that long." I know, so let's take a look at a more realistic span of investing. Let's say you start investing at the age of 20, and then retire at age 60, which gives you 40 years of investing. So after a quick `subset(stocks,year<=40)`. Here's what that snapshot will look like:
 
-![Investing for 40 years](https://raw.githubusercontent.com/zonination/investing/master/snippets/returns-40yr.png)
+![Investing for 40 years](https://raw.githubusercontent.com/zonination/investing/master/snippets/returns-40yr.png | width=200)
 
 Wait a minute. Zoom in. What's going on with those data points that are losing money over X years?
 
