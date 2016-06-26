@@ -44,15 +44,13 @@ I can already hear the keyboards being tapped for the comments section: "Wait, Z
 
 Wait a minute. Zoom in. What's going on with those data points that are losing money over X years?
 
-![What?](https://raw.githubusercontent.com/zonination/investing/master/snippets/returns-40yr-lowbox.png)
-
 Keep in mind that this is a *distribution* of returns. After 1 year of investing, you might sell high or you might sell low. After 20 years, you're almost guaranteed to sell high. By 40 years, you're turning a major profit. [Code provided here](https://github.com/zonination/investing/blob/master/snippets/snip1.R)
 
 ![Probability of selling short](https://raw.githubusercontent.com/zonination/investing/master/snippets/short-probability.png)
 
 Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market.
 
-Here's the list of years you can invest, and still be down ([Code provided here](https://github.com/zonination/investing/blob/master/snippets/snip1.R)):
+Here's the list of years you can invest, and still be down. Take note that some of these are not even the same years, meaning the market recovered after going downhill:
 
 * **Still down after 10 years** (x% chance)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
 * **Still down after 15 years** (x% chance)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
@@ -63,13 +61,7 @@ Here's the list of years you can invest, and still be down ([Code provided here]
 
 But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
-![Look at all this money](https://raw.githubusercontent.com/zonination/investing/master/snippets/returns-40yr-hibox.png)
-
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
-
-![Do I invest here or here?](https://raw.githubusercontent.com/zonination/investing/master/snippets/here-or-here.png)
-
-![Does it matter?](https://raw.githubusercontent.com/zonination/investing/master/snippets/does-it-matter.png)
 
 ## Other Visualizations
 
