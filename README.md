@@ -54,10 +54,12 @@ Some of the worst market downturns are also represented here, like the [Great De
 
 Here's the list of years you can invest, and still be down after:
 
-* **Still down after 10 years** (x% chance)**:** [[share a list]]
-* **Still down after 15 years** (x% chance)**:** [[share a list]]
-* **Still down after 20 years** (x% chance)**:** [[share a list]]
-* **Still down after 25 years** (x% chance)**:** [[none (?)]]
+* **Still down after 10 years** (x% chance)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
+* **Still down after 15 years** (x% chance)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
+* **Still down after 20 years** (x% chance)**:** 1901
+* **Still down after 25 years** (0% chance)**:** *none*
+
+(code :`unique(subset(stocks,multip<1&year==20)$inv.year)`)
 
 But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
 
