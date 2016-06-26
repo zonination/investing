@@ -50,12 +50,12 @@ Keep in mind that this is a *distribution* of returns. After 1 year of investing
 
 Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market.
 
-Here's the list of years you can invest, and still be down. Take note that some of these are not even the same years, meaning the market recovered after going downhill:
+Here's the list of years you can invest, and still be down. Take note that **some of these are not even the same years**, meaning the market recovered after going downhill:
 
-* **Still down after 10 years** (x% chance)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
-* **Still down after 15 years** (x% chance)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
-* **Still down after 20 years** (x% chance)**:** 1901
-* **Still down after 25 years** (0% chance)**:** *none*
+* **Down after 10 years** (11.8% chance)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
+* **Down after 15 years** (4.73% chance)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
+* **Down after 20 years** (0.0664% chance)**:** 1901
+* **Down after 25 years** (0% chance)**:** *none*
 
 (code :`unique(subset(stocks,multip<1&year==20)$inv.year)`)
 
