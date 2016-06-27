@@ -77,6 +77,30 @@ Long story short, buy and hold. Invest for the long-term, and not the short term
 
 ## Frequently Asked Questions
 
+**What about Dollar Cost Averaging (DCA) instead of Lump Sum Investing (LSI)?**
+
+This one is going to be a little more difficult. I've included the original code and it's open-source, so if you want to play with the numbers, you can try to do this yourself. However, there are a couple points I'd like to keep in mind:
+
+* You're working with a "cash multiplier" as the main result. You'd be trading in a [unitless scale](https://en.wikipedia.org/wiki/Nondimensionalization) for a scale with units since you'll need to specify a base value. Perhaps the act of buying a single share of SP500 per year might help with keeping the scale nondimensional?
+* There's inflation data in there, but at some point you're going to have to account for that if you're using dollars as a scale. How does one compare investing a dollar in 1902 vs. 2002?
+* DCA will probably cause some scaling issues. You'll need to accurately tune your algorithm to reflect an equivalent investment under the LSI algorithm I provide.
+
+My prediction is that DCA will "thin out" the plot and bring a lot more values closer to the average. This makes investing a bit safer, but at the cost of slower gains.
+
+**This portfolio is 100% stocks. What about Bonds? International Stocks? How about a three-fund portfolio?**
+
+Working with this kind of data would be my wet dream. If anyone has data on International Stocks, Bonds, Bills, Cash, Bitcoin, or other values you want similar plots of, **in a similar format to the SP500 data,** please [send me a PM on Reddit](https://www.reddit.com/message/compose/?to=zonination).
+
+One day, I hope to simulate a three-fund portfolio.
+
+**What if the market crashes right before retirement and the world ends up broke and the dollar crashes?**
+
+Okay, a few notes here:
+
+1. You can what-if until the cows come home, but you should also have what-if scenarios for the possibility of your hypothesis being wrong. *Real risk* is **not** based off of *possibilities*, it's based off of *probability* multiplied by the *severity* of the event.
+2. Nobody is going to recommend a portfolio of 100% US Stocks right before retirement. That portfolio is going to be mostly bonds at that point.
+3. Sky-is-falling headlines are big money-makers for disreputable journalists, and often enough there is no disincentive for these writers to be incorrect.
+
 ## Other Visualizations
 
 This viz actually started off as an animation. Below is the original plot for the animation:
@@ -102,3 +126,4 @@ The code for these plots is shared in the `altplots` folder.
 * [Personalfinance Wiki on Investing](https://www.reddit.com/r/personalfinance/wiki/investing)
 * [I have $X. What do I do with it?](https://www.reddit.com/r/personalfinance/wiki/commontopics)
 * [The Bogleheads Wiki on Three Fund Portfolios](https://www.bogleheads.org/wiki/Three-fund_portfolio)
+* [cFIREsim - open-source portfolio simulator](http://www.cfiresim.com/)
