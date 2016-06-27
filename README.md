@@ -56,7 +56,7 @@ I can already hear the keyboards being tapped for the comments section: "Wait, Z
 
 Wait a minute. Zoom in. What's going on with those data points that are losing money over X years?
 
-Keep in mind that this is a *distribution* of returns. After 1 year of investing, you might sell high or you might sell low. After 20 years, you're almost guaranteed to sell high. By 40 years, you're turning a major profit. [Code provided here](https://github.com/zonination/investing/blob/master/snippets/snip1.R)
+Keep in mind that this is a *distribution* of returns. After 1 year of investing, you might sell high or you might sell low. After 20 years, you're almost guaranteed to sell high. By 40 years, you're turning a major profit. So now what's our *probability* of losing cash for each possible year of investing? [Code provided here](https://github.com/zonination/investing/blob/master/snippets/snip1.R)
 
 ![Probability of selling short](https://raw.githubusercontent.com/zonination/investing/master/snippets/short-probability.png)
 
