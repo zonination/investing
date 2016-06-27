@@ -75,7 +75,7 @@ But that doesn't consider all the years that were average, or even the years tha
 
 ![Perspective](https://raw.githubusercontent.com/zonination/investing/master/snippets/short-probability-2.png)
 
-Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
+Long story short, buy and hold. Invest for the long-term, and not the short-term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
 ## Frequently Asked Questions
 
@@ -100,8 +100,9 @@ One day, I hope to simulate a three-fund portfolio.
 Okay, a few notes here:
 
 1. You can what-if until the cows come home, but you should also have what-if scenarios for the possibility of your hypothesis being wrong. *Real risk* is **not** based off of *possibilities*, it's based off of *probability* multiplied by the *severity* of the event.
-2. Nobody is going to recommend a portfolio of 100% US Stocks right before retirement. That portfolio is going to be mostly bonds at that point.
-3. Sky-is-falling headlines are big money-makers for disreputable journalists, and often enough there is no disincentive for these writers to be incorrect.
+2. No, you're **not** absolutely sure it's going to happen. Stop drinking the kool-aid.
+3. Nobody is going to recommend a portfolio of 100% US Stocks right before retirement. That portfolio is going to be mostly bonds at that point.
+4. Sky-is-falling headlines are big money-makers for disreputable journalists, and often enough there is no disincentive for these writers to be incorrect.
 
 ## Other Visualizations
 
