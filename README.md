@@ -27,10 +27,11 @@ A lot of you know me from my comments and posts on Reddit's /r/personalfinance. 
 
 > "Warren [Buffet], it strikes me that if you did nothing else you never sell. That is, if you can grit your teeth through and just disregard short-term declines in the market or even long-term declines in the market, you will come out well. I mean you just stick all your money in stocks and go home and don’t look at your portfolio you’ll do far better than if you try to trade it." - Alan Greenspan
 
-A lot of people on /r/personalfinance, usually green to the wonders of long-term investing, often question the security of the "buy and hold" strategy, or would rather try to time the market instead. This viz project is an attempt to do two things:
+A lot of people on /r/personalfinance, usually green to the wonders of long-term investing, often question the security of the "buy and hold" strategy, or would rather try to time the market instead. This viz project is an attempt to do three things:
 
 1. Objectively explore past returns, so that all facets of long-term investing (past and present) are explored.
 2. Show that the "Invest Early and Invest Often" adage holds weight, and by how much.
+3. Observe what happens when a "buy and hold" strategy is implemented, and how well that performs.
 
 ## Gallery
 
