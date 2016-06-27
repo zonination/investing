@@ -71,7 +71,9 @@ Here's the list of years you can invest, and still be down. Take note that **som
 
 (code :`unique(subset(stocks,multip<1&year==20)$inv.year)`)
 
-But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors.
+But that doesn't consider all the years that were average, or even the years that were extremely profitable for investors. Here's the same plot above, except with a 0% to 100% scale for better perspective:
+
+![Perspective](https://raw.githubusercontent.com/zonination/investing/master/snippets/short-probability-2.png)
 
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
