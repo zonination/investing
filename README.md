@@ -81,7 +81,7 @@ Long story short, buy and hold. Invest for the long-term, and not the short term
 
 This viz actually started off as an animation. Below is the original plot for the animation:
 
-![Animation: Growth of Stock Market](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth.gif
+![Animation: Growth of Stock Market](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth.gif)
 
 I'll step through a few freeze-frames of the plot above:
 
