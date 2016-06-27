@@ -8,6 +8,7 @@ Source file `stocks.csv` last updated on 2016-06-24.
 * [About](https://github.com/zonination/investing/blob/master/README.md#about)
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
 * [Exploration and Explanations](https://github.com/zonination/investing/blob/master/README.md#exploration-and-explanations)
+* [Frequently Asked Questions](https://github.com/zonination/investing/blob/master/README.md#frequently-asked-questions)
 * [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
 * [Sources](https://github.com/zonination/investing/blob/master/README.md#sources)
 * [Further Reading](https://github.com/zonination/investing/blob/master/README.md#further-reading)
@@ -26,11 +27,10 @@ A lot of you know me from my comments and posts on Reddit's /r/personalfinance. 
 
 > "Warren [Buffet], it strikes me that if you did nothing else you never sell. That is, if you can grit your teeth through and just disregard short-term declines in the market or even long-term declines in the market, you will come out well. I mean you just stick all your money in stocks and go home and don’t look at your portfolio you’ll do far better than if you try to trade it." - Alan Greenspan
 
-A lot of people on /r/personalfinance, usually green to the wonders of long-term investing, often question the security of the "buy and hold" strategy, or would rather try to time the market instead. This viz project is an attempt to do three things:
+A lot of people on /r/personalfinance, usually green to the wonders of long-term investing, often question the security of the "buy and hold" strategy, or would rather try to time the market instead. This viz project is an attempt to do two things:
 
 1. Objectively explore past returns, so that all facets of long-term investing (past and present) are explored.
-2. Show--with figures--how market timing, panic selling, and active day trading are probably futile strategies.
-3. Show that the "Invest Early and Invest Often" adage holds weight, and by how much.
+2. Show that the "Invest Early and Invest Often" adage holds weight, and by how much.
 
 ## Gallery
 
@@ -59,7 +59,7 @@ Keep in mind that this is a *distribution* of returns. After 1 year of investing
 
 Some of the worst market downturns are also represented here, like the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression), the [1970s recession](https://en.wikipedia.org/wiki/1973%E2%80%9374_stock_market_crash), [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_(1987)), the [Dot-Com Bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), the [2008 Financial Crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). But note how they completely recover to turn a profit after some more time in the market.
 
-Here's the list of years you can invest, and still be down. Take note that **some of these are not even the same years**, meaning the market recovered after going downhill:
+Here's the list of years you can invest, and still be down. Take note that **some of these years cover the same eras**:
 
 * **Down after 10 years** (11.8% chance historically)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
 * **Down after 15 years** (4.73% chance historically)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
@@ -72,12 +72,14 @@ But that doesn't consider all the years that were average, or even the years tha
 
 Long story short, buy and hold. Invest for the long-term, and not the short term. Don't try to time the market; [even if you invested at market peaks, you'd still make out well](http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/).
 
+## Frequently Asked Questions
+
 ## Other Visualizations
 
 ## Sources
 
 ## Further Reading
 
-* [Personalfinance Wiki on Investing]()
-* [I have $X. What do I do with it?]()
-* 
+* [Personalfinance Wiki on Investing](https://www.reddit.com/r/personalfinance/wiki/investing)
+* [I have $X. What do I do with it?](https://www.reddit.com/r/personalfinance/wiki/commontopics)
+* [The Bogleheads Wiki on Three Fund Portfolios](https://www.bogleheads.org/wiki/Three-fund_portfolio)
