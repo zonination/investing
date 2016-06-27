@@ -4,12 +4,21 @@ Source file `stocks.csv` last updated on 2016-06-24.
 
 ### Table of Contents
 
+* [Disclaimer](https://github.com/zonination/investing/blob/master/README.md#disclaimer)
 * [About](https://github.com/zonination/investing/blob/master/README.md#about)
 * [Gallery](https://github.com/zonination/investing/blob/master/README.md#gallery)
 * [Exploration and Explanations](https://github.com/zonination/investing/blob/master/README.md#exploration-and-explanations)
 * [Other Visualizations](https://github.com/zonination/investing/blob/master/README.md#other-visualizations)
 * [Sources](https://github.com/zonination/investing/blob/master/README.md#sources)
 * [Further Reading](https://github.com/zonination/investing/blob/master/README.md#further-reading)
+
+## Disclaimer
+
+Note that this stock market simulation assumes a portfolio that is invested in 100% US Stocks. While a lot of the results show that 100% Stocks can generate an impressive return, **this is not an ideal portfolio.**
+
+**A portfolio should be diversified** with a good mix of US Stocks, International Stocks, and Bonds. This diversification helps to hedge against market swings, and will help the investor to optimize returns on their investment with lower risk than this visual demonstrates.
+
+If you are interested in reviewing your asset allocation or auditing your portfolio, check out the [Further Reading](https://github.com/zonination/investing/blob/master/README.md#further-reading) section below.
 
 ## About
 
@@ -52,10 +61,10 @@ Some of the worst market downturns are also represented here, like the [Great De
 
 Here's the list of years you can invest, and still be down. Take note that **some of these are not even the same years**, meaning the market recovered after going downhill:
 
-* **Down after 10 years** (11.8% chance)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
-* **Down after 15 years** (4.73% chance)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
-* **Down after 20 years** (0.0664% chance)**:** 1901
-* **Down after 25 years** (0% chance)**:** *none*
+* **Down after 10 years** (11.8% chance historically)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
+* **Down after 15 years** (4.73% chance historically)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
+* **Down after 20 years** (0.0664% chance historically)**:** 1901
+* **Down after 25 years** (0% chance historically)**:** *none*
 
 (code :`unique(subset(stocks,multip<1&year==20)$inv.year)`)
 
