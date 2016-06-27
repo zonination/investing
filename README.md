@@ -112,13 +112,13 @@ This viz actually started off as an animation. Below is the original plot for th
 
 I'll step through a few freeze-frames of the plot above:
 
-![Animation: Growth of Stock Market - 10 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth-10.png)
+![Animation: Growth of Stock Market - 10 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/geom_real10.png)
 
-![Animation: Growth of Stock Market - 20 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth-20.png)
+![Animation: Growth of Stock Market - 20 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/geom_real20.png)
 
-![Animation: Growth of Stock Market - 30 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth-30.png)
+![Animation: Growth of Stock Market - 30 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/geom_real30.png)
 
-![Animation: Growth of Stock Market - 40 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/growth-40.png)
+![Animation: Growth of Stock Market - 40 years](https://raw.githubusercontent.com/zonination/investing/master/altplots/geom_real40.png)
 
 The code for these plots is shared in the `altplots` folder.
 
