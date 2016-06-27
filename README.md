@@ -19,6 +19,8 @@ Note that this stock market simulation assumes a portfolio that is invested in 1
 
 **A portfolio should be diversified** with a good mix of US Stocks, International Stocks, and Bonds. This diversification helps to hedge against market swings, and will help the investor to optimize returns on their investment with lower risk than this visual demonstrates.
 
+In addition to this, this curve only looks at **one lump sum** of initial investing. A typical investor will not have the capital to employ a single lump sum as a basis for a long-term investment, and will instead rely on *dollar cost averaging*, where cash is deposited across multiple years (which helps to smooth out the curve as well).
+
 If you are interested in reviewing your asset allocation or auditing your portfolio, check out the [Further Reading](https://github.com/zonination/investing/blob/master/README.md#further-reading) section below.
 
 ## About
