@@ -22,4 +22,5 @@ ggplot(stockrisk,aes(year,chance))+
   ggtitle("Chance of Losing in the Stock Market")+
   ylab("Chance of Loss")+
   xlab("Years Invested")+
+# scale_y_continuous(limits=c(0,1))+
   z_theme()
