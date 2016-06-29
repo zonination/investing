@@ -100,7 +100,7 @@ for(f in 1:40){
                         1+(sp500$future.r-sp500$real.return)/sp500$real.return,
                         na.rm=TRUE)
                     ,linetype=4,alpha=.3)+
-        scale_y_continuous(limits=c(0,50))+
+        scale_y_log10(limits=2^c(-2,6),breaks=2^c(-3:15),labels=as.character(2^c(-3:15)))+
         geom_rug(sides="r",size=.5,alpha=.1,color="limegreen")+
         z_theme()
     )
