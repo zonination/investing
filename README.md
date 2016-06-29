@@ -124,6 +124,8 @@ The code for these plots is shared in the `altplots` folder.
 
 ## Sources
 
+* [S&P500 Data, compiled by Robert Shiller and maintained on Github](https://github.com/datasets/s-and-p-500)
+
 ## Further Reading
 
 * [Personalfinance Wiki on Investing](https://www.reddit.com/r/personalfinance/wiki/investing)
