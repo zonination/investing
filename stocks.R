@@ -65,7 +65,7 @@ for(r in 2:nrow(sp500)){
   
 # Use a cash multiplier instead of a percent:
 stocks$multip<-stocks$percent+1
-write.table(stocks,"returns.csv")
+# write.table(stocks,"returns.csv") # Save the returns
 
 ggplot(subset(stocks,year<=40&inv.year>=1957),aes(x=year,y=multip,group=year),na.rm=T)+
 # geom_boxplot(outlier.shape=NA,coef=0,fatten=0,fill="steelblue",color=NA)+
