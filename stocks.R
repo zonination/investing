@@ -14,7 +14,7 @@ source("z_theme.r")
 # "https://raw.githubusercontent.com/datasets/s-and-p-500/master/data/data.csv"
 sp500<-read.csv("stocks.csv", stringsAsFactors=FALSE)
 
-# If you're not regenerating the source data, comment this part out
+# If you're regenerating the source data, comment this part out
 # and Uncomment the "Master Loop" section below
 stocks<-read.csv("returns.csv", stringsAsFactors=FALSE)
 
