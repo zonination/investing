@@ -41,7 +41,7 @@ for(r in 2:nrow(sp500)){
 }
 
 # Master Loop
-# If you're not regenerating the source data, uncomment this part
+# If you're regenerating the source data, uncomment this part
 # Warning: May take a very long time to solve.
 ###############
 # stocks<-data.frame(NA,NA,NA,NA)
