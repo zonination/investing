@@ -12,11 +12,11 @@ source("z_theme.r")
 # I strongly recommend using the github link below, since the sp500 data is
 # actively maintained. My data is updated only occasionally
 # "https://raw.githubusercontent.com/datasets/s-and-p-500/master/data/data.csv"
-sp500<-read.csv("stocks.csv", stringsAsFactors=FALSE)
+sp500<-read.csv("stocks.csv", stringsAsFactors=FALSE, header=TRUE)
 
 # If you're regenerating the source data, comment this part out
 # and Uncomment the "Master Loop" section below
-stocks<-read.csv("returns.csv", stringsAsFactors=FALSE)
+stocks<-read.csv("returns.csv", stringsAsFactors=FALSE, header=TRUE, sep=" ")
 
 # Doing stuff with dates:
 # Reformatting the dates to make it readable by the system.
