@@ -64,7 +64,7 @@ Some of the worst market downturns are also represented here, like the [Great De
 
 Here's the list of years you can invest, and still be down. Take note that **some of these years cover the same eras**:
 
-* **Down after 10 years** (11.8% chance historically)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1973 1973 1998 1999 2000 2001
+* **Down after 10 years** (11.8% chance historically)**:** 1908 1909 1910 1911 1912 1929 1930 1936 1937 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1998 1999 2000 2001
 * **Down after 15 years** (4.73% chance historically)**:** 1905 1906 1907 1929 1964 1965 1966 1967 1968 1969
 * **Down after 20 years** (0.0664% chance historically)**:** 1901
 * **Down after 25 years** (0% chance historically)**:** *none*
