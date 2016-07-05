@@ -16,7 +16,7 @@ sp500<-read.csv("stocks.csv", stringsAsFactors=FALSE)
 
 # If you're regenerating the source data, comment this part out
 # and Uncomment the "Master Loop" section below
-stocks<-read.csv("returns.csv", stringsAsFactors=FALSE)
+stocks<-read.csv("returns.csv", stringsAsFactors=FALSE, sep=" ")
 
 # Doing stuff with dates:
 # Reformatting the dates to make it readable by the system.
