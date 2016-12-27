@@ -12,6 +12,8 @@ z_theme <- function() {
     theme(legend.title= element_blank())+
     #Axis & Title Formatting
     theme(plot.title=element_text(color="#525252", size=20, vjust=1.25)) +
+    theme(plot.subtitle=element_text(size=12,color="#737373", vjust=0)) +
+    theme(plot.caption=element_text(size=12,color="#737373", vjust=0)) +
     theme(axis.ticks=element_blank()) +
     theme(axis.text.x=element_text(size=14,color="#737373")) +
     theme(axis.text.y=element_text(size=14,color="#737373")) +
